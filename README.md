@@ -1,2 +1,2 @@
 # medical-expert-project
-This program is programmed in the prolog language. It provides a service to diagnose the patient through a dialogue between the doctor and the patient. 
+This program is programmed in the prolog language. It provides a service to diagnose the patient through a dialogue between the doctor and the patient. The doctor asks the patient if you feel a certain symptom, and so on. In the end, the doctor diagnoses the patient's condition and tells him that he has a specific disease and gives him some medicines and advice that he adheres to.
